@@ -20,4 +20,6 @@ const (
 	LanguageC    = 1 //C
 	LanguageCPP  = 2 //C++
 	LanguageJAVA = 3 //Java
+	LanguagePy2  = 4 //Java
+	LanguagePy3  = 5 //Java
 )
